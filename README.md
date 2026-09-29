@@ -5,4 +5,4 @@ Initial E-commerce profitability analysis, involving developing a basic profitab
 
 Account Profitability and Service Tier Analysis, involving developing a set of investigative dashboards to uncover accounts driving the greatest financial losses and explaining design logic. Link to Tableau Public: https://public.tableau.com/app/profile/sanjana.shahreen/viz/AccountProfitabilityandServiceTierAnalysis/AccountPortfolioDashboard. If I were to re-attempt this assignment, I'd put more time into making the colors look more cohesive across the dashboards.
 
-Intro to PowerBI course through Datacamp for MIS 561, completed on 9/28. Tableau link: 
+Intro to PowerBI course through Datacamp for MIS 561, completed on 9/28. https://public.tableau.com/app/profile/sanjana.shahreen/viz/PowerBITrainingCertifications_17906664959340/PowerBIStory
