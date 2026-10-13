@@ -9,3 +9,6 @@ Intro to PowerBI course through Datacamp for MIS 561, completed on 9/28. https:/
 
 Intro to DAX in PowerBI course through Datacamp for MIS 561, completed on 10/6. 
 https://public.tableau.com/app/profile/sanjana.shahreen/viz/PowerBITrainingCertifications_17907403271130/PowerBIStory. In Flex 4, I calculated margin in Excel as a column on the Order Data sheet: each order line's Profit divided by its Revenue. In Power BI I would build it as a measure instead of a column: Margin % = DIVIDE(SUM(Profit), SUM(Revenue)). This is because a column only stores one fixed percentage per row, and averaging those rows misstates margin for any year or quarter. A 20% margin on a $5 line and a 10% margin on a $5,000 line average to 15%, but the true margin is about 10%, which the measure returns because it sums profit and revenue before dividing. That lets the viewer filter to a year and drill from year to quarter in the date hierarchy with the correct margin at every level. For Marcus, that means he can pick a year in the meeting and drill into quarters himself instead of asking me to rebuild a PivotTable, and the number updates on its own when new orders load.
+
+Data Visualization in Power BI course through Datacamp for MIS 561, completed on 10/12.
+
